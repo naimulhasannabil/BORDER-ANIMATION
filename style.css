@@ -14,6 +14,7 @@ body {
     align-items: center;
     font-size: 16px;
     color: #fff;
+    position: relative;
 }
 
 .card {
@@ -23,5 +24,7 @@ body {
     background: #1c1f2b;
     text-align: center;
     border-radius: 10px;
-    
+    position: absolute;
+    top: 150px;
 }
+
